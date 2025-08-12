@@ -28,6 +28,6 @@ dev_dependencies:
   flutter_lints: ^2.0.3
 
 flutter:
-  uses_material_design: true
+  uses-material-design: true
   assets:
     - images/
